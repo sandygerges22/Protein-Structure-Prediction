@@ -15,3 +15,4 @@ Clone this repository.
 Install the necessary requirements: pip install -r requirements.txt.
 
 Run the Streamlit app: streamlit run app.py
+video link :https://drive.google.com/file/d/1ForXFn8kZdPglYEZFGPbQ1nTDC2zRAhz/view?usp=drivesdk
